@@ -32,4 +32,4 @@ motorshield.
 
 ***When using motorshield, unless you plan to solder wires to the pins, use a small breadboard
 
-****It is probably that this project would need a lot of soldering
+****It is probable that this project would need a lot of soldering
